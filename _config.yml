@@ -4,4 +4,5 @@ plugins:
 title: Links Visanet Uruguay
 description: Short URLs - https://www.visanet.com.uy
 show_downloads: false
+google_analytics: UA-200786775-1
 theme: jekyll-theme-cayman
