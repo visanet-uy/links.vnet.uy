@@ -1,7 +1,7 @@
 plugins:
   - jekyll-redirect-from
 
-title: Short URLs de Visanet Uruguay
-description: Short URLs de Visanet Uruguay
+title: Links Visanet Uruguay
+description: Short URLs - https://www.visanet.com.uy
 show_downloads: false
 theme: jekyll-theme-cayman
